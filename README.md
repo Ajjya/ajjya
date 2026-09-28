@@ -1,16 +1,13 @@
-## Hi there 👋
+### Technical Lead · Node.js/TypeScript · MongoDB · IAM
 
-<!--
-**Ajjya/ajjya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Technical Lead with 14 years in software engineering: distributed systems, MongoDB data architecture and identity & access management at scale.
 
-Here are some ideas to get you started:
+**🏗 [Burrowmart](https://github.com/burrowmart)**: an event-driven microservices reference platform I'm building (NestJS, TypeScript, MongoDB, RabbitMQ, Redis, Kubernetes):
+- [order-service](https://github.com/burrowmart/order-service): order placement and the saga orchestrator
+- [contracts](https://github.com/burrowmart/contracts): shared OpenAPI specs, TypeScript DTOs, RabbitMQ message contracts
+- [ws-gateway](https://github.com/burrowmart/ws-gateway): realtime edge, one multiplexed WebSocket per client
+- [notification-service](https://github.com/burrowmart/notification-service): persist-then-push notifications on MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**⚡ [cf-worker-mdb](https://github.com/Ajjya/cf-worker-mdb)**: Cloudflare Workers AI + MongoDB Atlas Vector Search
+
+✍️ Architecture blog: [archtenet.dev](https://archtenet.dev) · Co-organizer of MongoDB User Group Lisbon
